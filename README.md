@@ -289,3 +289,13 @@ https://medium.com/towards-data-science/lime-explain-machine-learning-prediction
 https://medium.com/@corredaniel1500/forecasting-volatility-deep-dive-into-arch-garch-models-46cd1945872b
 
 </details>
+
+<details>
+<summary>State Space Models</summary>
+<br>
+  
+A classic example of a state space model applied to time series data is modeling the movement of a stock price, where the "state" represents the underlying trend of the stock price which is not directly observed, but can be inferred from the noisy daily closing prices (observations) using a Kalman filter; the state equation would describe how the underlying trend evolves over time, while the observation equation relates the observed price to the unobserved trend with added noise.
+
+https://janelleturing.medium.com/advanced-time-series-analysis-state-space-models-and-kalman-filtering-3b7eb7157bf2
+
+</details>
