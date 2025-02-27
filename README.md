@@ -280,6 +280,7 @@ https://medium.com/cmotions/opening-the-black-box-of-machine-learning-models-sha
 
 ![image](https://github.com/user-attachments/assets/56b8612c-711f-4224-a9db-847996f5e3c4)
 
+In econometrics, regime changes are often detected through Chow tests or rolling Chow tests.
 
 <details>
 <summary>GARCH Models</summary>
