@@ -233,7 +233,6 @@ DBSCAN's advantages:
 <summary>SHAP and LIME Model Interpretability</summary>
 <br>
   
-https://medium.com/cmotions/opening-the-black-box-of-machine-learning-models-shap-vs-lime-for-model-explanation-d7bf545ce15f
   
 ### SHAP: SHapley Additive exPlanations
 
@@ -264,6 +263,8 @@ https://marcotcr.github.io/lime/tutorials/Tutorial%20-%20continuous%20and%20cate
 https://medium.com/towards-data-science/lime-explain-machine-learning-predictions-af8f18189bfe
 
 ### Comparison
+
+https://medium.com/cmotions/opening-the-black-box-of-machine-learning-models-shap-vs-lime-for-model-explanation-d7bf545ce15f
 
 ![image](https://github.com/user-attachments/assets/02449983-b8c3-4296-a71f-d0209d1dbf34)
 
