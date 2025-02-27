@@ -1,6 +1,6 @@
 # Projects and Notes
 
-- Repositories contain old projects while at UCLA and UCSB.
+- Repositories contain old projects from UCLA and UCSB.
 - See below for notes I use at work/school.
 
 <br>
