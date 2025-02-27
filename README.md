@@ -283,6 +283,8 @@ https://medium.com/towards-data-science/lime-explain-machine-learning-prediction
 <details>
 <summary>GARCH Models</summary>
 <br>
+
+A GARCH (Generalized Autoregressive Conditional Heteroskedasticity) model works by analyzing past price movements and volatility to predict future volatility in a time series, essentially capturing the idea that volatility clusters, meaning periods of high volatility tend to be followed by other periods of high volatility, and vice versa; it does this by assuming that the variance of the error term follows an autoregressive moving average (ARMA) process, allowing it to model how the volatility changes based on past information like squared residuals (past price changes) and previous volatility estimates. 
   
 ![image](https://github.com/user-attachments/assets/4b9d4d2b-03bc-4685-b410-057a1c47f95c)
 
