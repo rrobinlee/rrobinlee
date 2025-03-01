@@ -303,3 +303,9 @@ A classic example of a state space model applied to time series data is modeling
 https://janelleturing.medium.com/advanced-time-series-analysis-state-space-models-and-kalman-filtering-3b7eb7157bf2
 
 </details>
+
+<details>
+<summary>Bayesian Structural Time Series</summary>
+<br>
+
+</details>
